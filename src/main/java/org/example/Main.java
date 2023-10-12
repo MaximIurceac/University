@@ -65,6 +65,7 @@ public class Main {
 
             }
 
+
             public static int divideNumber(int number, int divider){
                 if (divider == 0) {
                     throw new ArithmeticException("Zero division is not allowed");
